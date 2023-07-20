@@ -1,0 +1,17 @@
+# .gitignore
+
+# ignore the Python virtual environment folder
+env/
+
+# ignore all .pyc files
+*.pyc
+
+# ignore database files (sqlite for example)
+*.sqlite3
+
+# ignore other miscellaneous files
+*.log
+*.pot
+*.egg-info/
+dist/
+build/
